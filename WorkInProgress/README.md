@@ -12,7 +12,8 @@
 
 - 
 
-[Infraestrutura como código - Script de provisionamento de um servidor web (apache)](https://web.dio.me/lab/infraestrutura-como-codigo-script-de-provisionamento-de-um-servidor-web-apache/learning/29d22f7e-e72c-4a50-8b25-a9af4a3a8471)[Entendendo o Desafio e Materiais de Apoio](https://web.dio.me/lab/infraestrutura-como-codigo-script-de-provisionamento-de-um-servidor-web-apache/learning/b8823037-9371-492b-b163-10a8da0284fa)
+- [Infraestrutura como código - Script de provisionamento de um servidor web (apache)](https://web.dio.me/lab/infraestrutura-como-codigo-script-de-provisionamento-de-um-servidor-web-apache/learning/29d22f7e-e72c-4a50-8b25-a9af4a3a8471)
+- [Entendendo o Desafio e Materiais de Apoio](https://web.dio.me/lab/infraestrutura-como-codigo-script-de-provisionamento-de-um-servidor-web-apache/learning/b8823037-9371-492b-b163-10a8da0284fa)
 
 
 
